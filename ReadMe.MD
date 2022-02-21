@@ -20,4 +20,4 @@
     Server:
         python -m uvicorn server:app --reload
     Client: 
-        py chat.py
+        py client.py
