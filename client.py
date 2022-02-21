@@ -35,7 +35,7 @@ async def runClient(HOST, PORT):
     await sio.connect("http://"+ HOST +":"+ PORT,
                     headers={"X-USERNAME": username})
     await sio.sleep(3)               
-    print("Hello")
+   
     # task = await sio.start_background_task(background) 
     
     isActive = True
