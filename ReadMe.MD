@@ -1,5 +1,6 @@
 ## Application Description:
-    This application is just a simple chat application that allows for several clients to connect to a server and chat.
+    This application is just a simple chat application that allows for
+    several clients to connect to a server and chat.
 
 ## Application Specifics:
     This application's server & client are running on Host = "Localhost" & Port = "8000".
